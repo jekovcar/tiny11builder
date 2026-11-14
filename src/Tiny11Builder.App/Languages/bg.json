@@ -230,7 +230,7 @@
     "Text.OptionalMonthlySupportOrOneTimeDonationAllApp": "Допълнителна месечна поддръжка или еднократно дарение. Всички функции на приложението остават безплатни.",
     "Text.UpstreamProject": "Проект „Upstream“ ↗",
     "Text.Back": "Обратно",
-    "Text.CreateACustomizedWindows11ISOSelectAnImage": "Създай персонализиран ISO имидж на Windows 11. Изберете имидж, изберете какво да премахне и създаде ISO имидж.",
+    "Text.CreateACustomizedWindows11ISOSelectAnImage": "Създаване на собствен ISO имидж за Windows 11. Заредете имидж, изберете какво да премахне и създаде ISO имидж.",
     "Text.BuildModes": "Режими на сглобяване",
     "Text.SelectTiny11AndChooseAWindowsISO": "Изберете Tiny11 и изберете ISO имидж на Windows.",
     "Text.UseTheOriginalTiny11RemovalsKeepWindowsUpdateAnd": "Използва оригиналните файлове за премахване на Tiny11. Запазва Windows Update и функциите за възстановяване.",
