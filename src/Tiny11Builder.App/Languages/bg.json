@@ -280,7 +280,7 @@
     "Text.CoreAlsoIrreversiblyPrunesComponentFilesRemovesTheRecovery": "Core също така необратимо премахва файловите компонентите, средата за възстановяване и деактивира Windows Update и Microsoft Defender. Актуализациите, избрани в настройките на сборката, се интегрират преди премахването; бъдещо обслужване не се поддържа.",
     "Text.PresetRemovalGroups": "Пресети групи за премахване",
     "Text.ApplyCoreRemovals": "Приложи Core премахване",
-    "Text.KeepServicingRecoveryAndDefender": "Запазва се обслужването, възстановяването и Defender",
+    "Text.KeepServicingRecoveryAndDefender": "Запазва обслужването, възстановяването и Defender",
     "Text.RemoveServicingRecoveryAndDefender": "Премахва обслужването, възстановяването и Defender",
     "Text.CheckedGroupsAreRemovedOrDisabledUncheckedGroupsAre": "Отметнатите групи се премахват или деактивират. Неотметнатите групи се запазват. За отделни елементи използвайте списъка с компоненти по-долу.",
     "Text.ShowChoices": "Показване на опции",
