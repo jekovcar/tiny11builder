@@ -189,7 +189,7 @@
     "Kind.ComponentPayload": "Компонентни файлове",
     "Stage.Prepare": "Подготвя се",
     "Stage.Copymedia": "Копиране на медийни файлове",
-    "Stage.Exportedition": "Експортира издание",
+    "Stage.Exportedition": "Експорт на изданието",
     "Stage.Mount": "Монтиране",
     "Stage.Inventory": "Инструменти",
     "Stage.Integrateupdates": "Интегриране на актуализации",
